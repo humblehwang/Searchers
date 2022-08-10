@@ -1,0 +1,13 @@
+*.zip
+*.log
+*.logs
+/data_collection_system/file/crontab_log
+/data_collection_system/file/logging_file
+/data_collection_system/file/search_result
+/kafka
+/mongodb_data/
+/jieba
+/data_collection_system/file/text_segmentation
+/data_collection_system/file/extra_dict
+/data_collection_system/file/testing.xlsx
+/data_collection_system/test/data.zip 
