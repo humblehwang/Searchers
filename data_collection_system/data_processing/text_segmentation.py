@@ -1,8 +1,10 @@
+from ast import Pass
 import sys
 import pathlib
 import abc
 import re
 import os
+from typing import Tuple
 from collections import Counter
 from ckiptagger import WS, POS
 import jieba.posseg as pseg
@@ -10,6 +12,7 @@ import jieba
 sys.path.append(str(pathlib.Path(__file__).parent.parent.resolve()))
 sys.path.append(str(pathlib.Path(__file__).parent.parent.parent.resolve()))
 from data_collection_system.tools.exception import LoadModelError
+from emotion_detection import EmotionDetection
 
 
 class Segmentatior(abc.ABC):
@@ -19,12 +22,30 @@ class Segmentatior(abc.ABC):
     Attributes:
         part_of_speech_list(list): A list of part of speech
         model_dir(str): The path of text segmentation model
-
+        emotion_detector(EmotionDetection): Emotion detector
     """
-    def __init__(self):
+    def __init__(self, emotion_detector: EmotionDetection):
         self.part_of_speech_list = []
         self.model_dir = ""
-    
+        self.emotion_detector = emotion_detector
+
+    def chinese_sentence_filter(self, string: str) -> list:
+        """Split the text into Chinese sentences
+
+        Args:
+            string(str)
+        Returns:
+            A list of string which only contains Chinese word and punctuation
+
+        Raises:
+            TypeError: An error caused by wrong param type
+        """
+        if not isinstance(string, str):
+            raise TypeError("Param must be str")
+
+        string = "".join(re.findall(r'[\u4e00-\u9FA5]+[\uFB00-\uFFFDh]', string))
+        return re.split(r"[。|!|！|,|，|?|？]", string)
+
     def chinese_word_filter(self, string: str) -> str:
         """Filt the Chinese word in given string
 
@@ -88,8 +109,14 @@ class Segmentatior(abc.ABC):
             result[column] = counter[column] if column in counter else 0
         return result
 
+
+
     @abc.abstractmethod
-    def get_pos_list(self, string: str) -> list:
+    def get_word_list(self, string: str) -> list:
+        """Get the word list"""    
+        
+    @abc.abstractmethod
+    def get_pos_list(self, word_list: list) -> list:
         """Get the part of speech list"""
 
     @abc.abstractmethod
@@ -107,8 +134,8 @@ class Ckip(Segmentatior):
         pos(ckiptagger.api.POS)
 
     """
-    def __init__(self):
-        super().__init__()
+    def __init__(self, emtion_detector):
+        super().__init__(emtion_detector)
         self.part_of_speech_list = [
             "A","Caa","Cab","Cba","Cbb","D","Da","Dfa","Dfb","Di","Dk","DM",
             "I","Na","Nb","Nc","Ncd","Nd","Nep","Neq","Neq","Nes","Neu","Nf",
@@ -159,12 +186,29 @@ class Ckip(Segmentatior):
 
         assert len(word_sentence) == len(pos_sentence)
         return [{word:pos} for word, pos in zip(word_sentence, pos_sentence)]
-                       
-    def get_pos_list(self, string: str) -> list:
+
+    def get_word_list(self, string: str) -> list:
         """Get pos list using text segmentation models
 
         Args:
             string(str): A string which only contains Chinese words
+        Returns:
+            A list of word
+            example:
+                ['想','請問','內部']
+        Raises:
+            TypeError: An error caused by wrong param type
+        """
+        if not isinstance(string, str):
+            raise TypeError("Param must be str")
+
+        return self.ws([string])[0]
+
+    def get_pos_list(self, word_list: list) -> list:
+        """Get pos list using text segmentation models
+
+        Args:
+            word_list(list): A list of word
         Returns:
             pos_sentence(list): A list of part of speech
             example:
@@ -172,11 +216,10 @@ class Ckip(Segmentatior):
         Raises:
             TypeError: An error caused by wrong param type
         """
-        if not isinstance(string, str):
-            raise TypeError("Param must be str")
+        if not isinstance(word_list, list):
+            raise TypeError("Param must be list")
 
-        word_sentence_list = self.ws([string])
-        pos_sentence = self.pos(word_sentence_list)[0]
+        pos_sentence = self.pos(word_list)[0]
         return pos_sentence
 
     def get_stat_of_part_of_speech_by_web_content(self, web_content: str) -> dict:
@@ -194,12 +237,16 @@ class Ckip(Segmentatior):
 
         if not web_content:
             return {}
-        
+        sentence_list = self.chinese_sentence_filter(web_content)
+        scroe_sentence = self.emotion_detector.get_score_by_sentence_list(sentence_list)
         string = self.chinese_word_filter(web_content)
-        pos_sentence = self.get_pos_list(string)
+        word_list = self.get_word_list(string)
+        pos_sentence = self.get_pos_list(word_list)
         counter = self.get_stat_counter(Counter(pos_sentence))
+        scroe_sentment = self.emotion_detector.get_score_by_sentment(word_list)
         most_common = self.get_most_common_dict(counter)
         most_common.update(dict(counter))
+        most_common.update({"scroe_sentment":scroe_sentment,"scroe_sentence":scroe_sentence})
         return most_common
 
 
@@ -211,8 +258,8 @@ class Jieba(Segmentatior):
         part_of_speech_list: A list of part of speech
     """
 
-    def __init__(self):
-        super().__init__()
+    def __init__(self, emtion_detector):
+        super().__init__(emtion_detector)
         self.part_of_speech_list = [
             "n","f","s","t","nr","ns","nt","nw",
             "nz","v","vd","vn","a","ad","an",
@@ -221,11 +268,34 @@ class Jieba(Segmentatior):
         ]
         jieba.enable_parallel(6)
 
-    def get_pos_list(self, string: str) -> list:
+    def get_word_list(self, string: str) -> Tuple[list, list]:
         """Get pos list using text segmentation models
 
         Args:
             string(str): A string which only contains Chinese words
+        Returns:
+            A list of word and A list of pos
+            example:
+                ['想','請問','內部'], ['N','ORG','A']
+        Raises:
+            TypeError: An error caused by wrong param type
+        """
+        if not isinstance(string, str):
+            raise TypeError("Param must be str")
+
+        word_list, pos_sentence = [], []
+        for word, pos in pseg.cut(string):
+            word_list.append(word)
+            pos_sentence.append(pos)
+
+        return word_list, pos_sentence
+
+    def get_pos_list(self, word_list: list) -> list:
+        pass
+        """Get pos list using text segmentation models
+
+        Args:
+            word_list(list): A list of word
         Returns:
             A list of part of speech
             example:
@@ -233,9 +303,9 @@ class Jieba(Segmentatior):
         Raises:
             TypeError: An error caused by wrong param type
         """
-        if not isinstance(string, str):
-            raise TypeError("Param must be str")
-        return [pos for word, pos in pseg.cut(string)]
+        #if not isinstance(string, str):
+        #    raise TypeError("Param must be str")
+        #return [pos for word, pos in pseg.cut(string)]
 
     def get_stat_of_part_of_speech_by_web_content(self, web_content: str) -> dict:
         """Get statistical counter of part of speech of web content by text segmentation model
@@ -252,11 +322,16 @@ class Jieba(Segmentatior):
 
         if not web_content:
             return {}
+        sentence_list = self.chinese_sentence_filter(web_content)
+        scroe_sentence = self.emotion_detector.get_score_by_sentence_list(sentence_list)
         string = self.chinese_word_filter(web_content)
-        pos_sentence = self.get_pos_list(string) 
+        word_list, pos_sentence = self.get_word_list(string)
+        scroe_sentment = self.emotion_detector.get_score_by_sentment(word_list)
+        #pos_sentence = self.get_pos_list(word_list) 
         counter = self.get_stat_counter(Counter(pos_sentence))
         most_common = self.get_most_common_dict(counter)
         most_common.update(dict(counter))
+        most_common.update({"scroe_sentment":scroe_sentment,"scroe_sentence":scroe_sentence})
         return most_common
 
     def add_word(self, company_list: list) -> None:

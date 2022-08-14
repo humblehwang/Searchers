@@ -10,6 +10,7 @@ from data_collection_system.tools import log
 from data_collection_system.db.db_insert import insert_data_list
 from text_segmentation import Jieba, Segmentatior, Ckip
 from classification import Classifyer
+from emotion_detection import EmotionDetection
 
 logger = log.create_logger()
 DIR = f"""{str(pathlib.Path(__file__).parent.parent.resolve())}/file/"""
@@ -229,6 +230,12 @@ if __name__ == '__main__':
        "search_result_url_dir" : f"""{DIR}search_result/{DATA_SOURCE}_search_url_result/""",
        "search_result_content_dir" :f"""{DIR}search_result/{DATA_SOURCE}_search_content_result/""",
     }
-    processer = DataProcesser(params, Jieba(), Classifyer(f"{DIR}blocklist/non_block.xlsx"))
+    emtion_detector = EmotionDetection(f"{DIR}chinese_emotional_dictionary.xlsx")
+    emtion_detector.get_sentment_dict()
+    processer = DataProcesser(
+        params, 
+        Jieba(emtion_detector), 
+        Classifyer(f"{DIR}blocklist/non_block.xlsx")
+    )
     processer.processing()
     logger.info(f"The time consuming of data processing is : {time.time() - start_time}")
