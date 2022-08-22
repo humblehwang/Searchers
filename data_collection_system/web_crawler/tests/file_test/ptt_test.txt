@@ -1,0 +1,698 @@
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>看板 Test 文章列表 - 批踢踢實業坊</title>
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/bbs/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Test/index.html"><span class="board-label">看板 </span>Test</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+
+<div id="main-container">
+	<div id="action-bar-container">
+		<div class="action-bar">
+			<div class="btn-group btn-group-dir">
+				<a class="btn selected" href="/bbs/Test/index.html">看板</a>
+				<a class="btn" href="/man/Test/index.html">精華區</a>
+			</div>
+			<div class="btn-group btn-group-paging">
+				<a class="btn wide" href="/bbs/Test/index1.html">最舊</a>
+				<a class="btn wide" href="/bbs/Test/index23.html">&lsaquo; 上頁</a>
+				<a class="btn wide disabled">下頁 &rsaquo;</a>
+				<a class="btn wide" href="/bbs/Test/index.html">最新</a>
+			</div>
+		</div>
+	</div>
+
+	<div class="r-list-container action-bar-margin bbs-screen">
+		<div class="search-bar">
+			<form type="get" action="search" id="search-bar">
+				<input class="query" type="text" name="q" value="" placeholder="搜尋文章&#x22ef;">
+			</form>
+		</div>
+
+		
+		
+            
+        
+        
+		<div class="r-ent">
+			<div class="nrec"></div>
+			<div class="title">
+			
+				<a href="/bbs/Test/M.1660821401.A.63B.html">[測試] </a>
+			
+			</div>
+			<div class="meta">
+				<div class="author">amnotu</div>
+				<div class="article-menu">
+					
+					<div class="trigger">&#x22ef;</div>
+					<div class="dropdown">
+						<div class="item"><a href="/bbs/Test/search?q=thread%3A%5B%E6%B8%AC%E8%A9%A6%5D&#43;">搜尋同標題文章</a></div>
+						
+						<div class="item"><a href="/bbs/Test/search?q=author%3Aamnotu">搜尋看板內 amnotu 的文章</a></div>
+						
+					</div>
+					
+				</div>
+				<div class="date"> 8/18</div>
+				<div class="mark"></div>
+			</div>
+		</div>
+
+		
+            
+        
+        
+		<div class="r-ent">
+			<div class="nrec"></div>
+			<div class="title">
+			
+				<a href="/bbs/Test/M.1660824812.A.E99.html">[測試] </a>
+			
+			</div>
+			<div class="meta">
+				<div class="author">bojack26</div>
+				<div class="article-menu">
+					
+					<div class="trigger">&#x22ef;</div>
+					<div class="dropdown">
+						<div class="item"><a href="/bbs/Test/search?q=thread%3A%5B%E6%B8%AC%E8%A9%A6%5D&#43;">搜尋同標題文章</a></div>
+						
+						<div class="item"><a href="/bbs/Test/search?q=author%3Abojack26">搜尋看板內 bojack26 的文章</a></div>
+						
+					</div>
+					
+				</div>
+				<div class="date"> 8/18</div>
+				<div class="mark"></div>
+			</div>
+		</div>
+
+		
+            
+        
+        
+		<div class="r-ent">
+			<div class="nrec"></div>
+			<div class="title">
+			
+				(本文已被刪除) [zxc906383]
+			
+			</div>
+			<div class="meta">
+				<div class="author">-</div>
+				<div class="article-menu">
+					
+				</div>
+				<div class="date"> 8/18</div>
+				<div class="mark"></div>
+			</div>
+		</div>
+
+		
+            
+        
+        
+		<div class="r-ent">
+			<div class="nrec"></div>
+			<div class="title">
+			
+				(本文已被刪除) [JL46]
+			
+			</div>
+			<div class="meta">
+				<div class="author">-</div>
+				<div class="article-menu">
+					
+				</div>
+				<div class="date"> 8/18</div>
+				<div class="mark"></div>
+			</div>
+		</div>
+
+		
+            
+        
+        
+		<div class="r-ent">
+			<div class="nrec"></div>
+			<div class="title">
+			
+				<a href="/bbs/Test/M.1660833950.A.2D8.html">[簽名] test</a>
+			
+			</div>
+			<div class="meta">
+				<div class="author">phil10048196</div>
+				<div class="article-menu">
+					
+					<div class="trigger">&#x22ef;</div>
+					<div class="dropdown">
+						<div class="item"><a href="/bbs/Test/search?q=thread%3A%5B%E7%B0%BD%E5%90%8D%5D&#43;test">搜尋同標題文章</a></div>
+						
+						<div class="item"><a href="/bbs/Test/search?q=author%3Aphil10048196">搜尋看板內 phil10048196 的文章</a></div>
+						
+					</div>
+					
+				</div>
+				<div class="date"> 8/18</div>
+				<div class="mark"></div>
+			</div>
+		</div>
+
+		
+            
+        
+        
+		<div class="r-ent">
+			<div class="nrec"></div>
+			<div class="title">
+			
+				(本文已被刪除) [LonzoBall]
+			
+			</div>
+			<div class="meta">
+				<div class="author">-</div>
+				<div class="article-menu">
+					
+				</div>
+				<div class="date"> 8/18</div>
+				<div class="mark"></div>
+			</div>
+		</div>
+
+		
+            
+        
+        
+		<div class="r-ent">
+			<div class="nrec"></div>
+			<div class="title">
+			
+				(本文已被刪除) [HDSM]
+			
+			</div>
+			<div class="meta">
+				<div class="author">-</div>
+				<div class="article-menu">
+					
+				</div>
+				<div class="date"> 8/18</div>
+				<div class="mark"></div>
+			</div>
+		</div>
+
+		
+            
+        
+        
+		<div class="r-ent">
+			<div class="nrec"></div>
+			<div class="title">
+			
+				(本文已被刪除) [dancebabe]
+			
+			</div>
+			<div class="meta">
+				<div class="author">-</div>
+				<div class="article-menu">
+					
+				</div>
+				<div class="date"> 8/18</div>
+				<div class="mark"></div>
+			</div>
+		</div>
+
+		
+            
+        
+        
+		<div class="r-ent">
+			<div class="nrec"></div>
+			<div class="title">
+			
+				(本文已被刪除) [hicasa]
+			
+			</div>
+			<div class="meta">
+				<div class="author">-</div>
+				<div class="article-menu">
+					
+				</div>
+				<div class="date"> 8/18</div>
+				<div class="mark"></div>
+			</div>
+		</div>
+
+		
+            
+        
+        
+		<div class="r-ent">
+			<div class="nrec"></div>
+			<div class="title">
+			
+				<a href="/bbs/Test/M.1660838387.A.6C0.html">[測試] test</a>
+			
+			</div>
+			<div class="meta">
+				<div class="author">zxc906383</div>
+				<div class="article-menu">
+					
+					<div class="trigger">&#x22ef;</div>
+					<div class="dropdown">
+						<div class="item"><a href="/bbs/Test/search?q=thread%3A%5B%E6%B8%AC%E8%A9%A6%5D&#43;test">搜尋同標題文章</a></div>
+						
+						<div class="item"><a href="/bbs/Test/search?q=author%3Azxc906383">搜尋看板內 zxc906383 的文章</a></div>
+						
+					</div>
+					
+				</div>
+				<div class="date"> 8/18</div>
+				<div class="mark"></div>
+			</div>
+		</div>
+
+		
+            
+        
+        
+		<div class="r-ent">
+			<div class="nrec"></div>
+			<div class="title">
+			
+				(本文已被刪除) [ZENFOX]
+			
+			</div>
+			<div class="meta">
+				<div class="author">-</div>
+				<div class="article-menu">
+					
+				</div>
+				<div class="date"> 8/19</div>
+				<div class="mark"></div>
+			</div>
+		</div>
+
+		
+            
+        
+        
+		<div class="r-ent">
+			<div class="nrec"></div>
+			<div class="title">
+			
+				<a href="/bbs/Test/M.1660841839.A.7DF.html">[測試] 喔喔</a>
+			
+			</div>
+			<div class="meta">
+				<div class="author">xtort</div>
+				<div class="article-menu">
+					
+					<div class="trigger">&#x22ef;</div>
+					<div class="dropdown">
+						<div class="item"><a href="/bbs/Test/search?q=thread%3A%5B%E6%B8%AC%E8%A9%A6%5D&#43;%E5%96%94%E5%96%94">搜尋同標題文章</a></div>
+						
+						<div class="item"><a href="/bbs/Test/search?q=author%3Axtort">搜尋看板內 xtort 的文章</a></div>
+						
+					</div>
+					
+				</div>
+				<div class="date"> 8/19</div>
+				<div class="mark"></div>
+			</div>
+		</div>
+
+		
+            
+        
+        
+		<div class="r-ent">
+			<div class="nrec"><span class="hl f2">1</span></div>
+			<div class="title">
+			
+				<a href="/bbs/Test/M.1660843324.A.ED5.html">[測試] 000</a>
+			
+			</div>
+			<div class="meta">
+				<div class="author">Aries</div>
+				<div class="article-menu">
+					
+					<div class="trigger">&#x22ef;</div>
+					<div class="dropdown">
+						<div class="item"><a href="/bbs/Test/search?q=thread%3A%5B%E6%B8%AC%E8%A9%A6%5D&#43;000">搜尋同標題文章</a></div>
+						
+						<div class="item"><a href="/bbs/Test/search?q=author%3AAries">搜尋看板內 Aries 的文章</a></div>
+						
+					</div>
+					
+				</div>
+				<div class="date"> 8/19</div>
+				<div class="mark"></div>
+			</div>
+		</div>
+
+		
+            
+        
+        
+		<div class="r-ent">
+			<div class="nrec"></div>
+			<div class="title">
+			
+				(本文已被刪除) [Dulux]
+			
+			</div>
+			<div class="meta">
+				<div class="author">-</div>
+				<div class="article-menu">
+					
+				</div>
+				<div class="date"> 8/19</div>
+				<div class="mark"></div>
+			</div>
+		</div>
+
+		
+            
+        
+        
+		<div class="r-ent">
+			<div class="nrec"></div>
+			<div class="title">
+			
+				(本文已被刪除) [Gmmmmmmmmmmm]
+			
+			</div>
+			<div class="meta">
+				<div class="author">-</div>
+				<div class="article-menu">
+					
+				</div>
+				<div class="date"> 8/19</div>
+				<div class="mark"></div>
+			</div>
+		</div>
+
+		
+            
+        
+        
+		<div class="r-ent">
+			<div class="nrec"></div>
+			<div class="title">
+			
+				(本文已被刪除) [rtyujlk]
+			
+			</div>
+			<div class="meta">
+				<div class="author">-</div>
+				<div class="article-menu">
+					
+				</div>
+				<div class="date"> 8/19</div>
+				<div class="mark"></div>
+			</div>
+		</div>
+
+		
+            
+        
+        
+		<div class="r-ent">
+			<div class="nrec"></div>
+			<div class="title">
+			
+				<a href="/bbs/Test/M.1660856831.A.5EC.html">[測試] 測</a>
+			
+			</div>
+			<div class="meta">
+				<div class="author">rtyujlk</div>
+				<div class="article-menu">
+					
+					<div class="trigger">&#x22ef;</div>
+					<div class="dropdown">
+						<div class="item"><a href="/bbs/Test/search?q=thread%3A%5B%E6%B8%AC%E8%A9%A6%5D&#43;%E6%B8%AC">搜尋同標題文章</a></div>
+						
+						<div class="item"><a href="/bbs/Test/search?q=author%3Artyujlk">搜尋看板內 rtyujlk 的文章</a></div>
+						
+					</div>
+					
+				</div>
+				<div class="date"> 8/19</div>
+				<div class="mark"></div>
+			</div>
+		</div>
+
+		
+            
+        
+        
+		<div class="r-ent">
+			<div class="nrec"></div>
+			<div class="title">
+			
+				<a href="/bbs/Test/M.1660867059.A.238.html">[測試] </a>
+			
+			</div>
+			<div class="meta">
+				<div class="author">afterSepara</div>
+				<div class="article-menu">
+					
+					<div class="trigger">&#x22ef;</div>
+					<div class="dropdown">
+						<div class="item"><a href="/bbs/Test/search?q=thread%3A%5B%E6%B8%AC%E8%A9%A6%5D&#43;">搜尋同標題文章</a></div>
+						
+						<div class="item"><a href="/bbs/Test/search?q=author%3AafterSepara">搜尋看板內 afterSepara 的文章</a></div>
+						
+					</div>
+					
+				</div>
+				<div class="date"> 8/19</div>
+				<div class="mark"></div>
+			</div>
+		</div>
+
+		
+            
+        
+        
+		<div class="r-ent">
+			<div class="nrec"></div>
+			<div class="title">
+			
+				<a href="/bbs/Test/M.1660868709.A.FB2.html">[色彩] </a>
+			
+			</div>
+			<div class="meta">
+				<div class="author">golang</div>
+				<div class="article-menu">
+					
+					<div class="trigger">&#x22ef;</div>
+					<div class="dropdown">
+						<div class="item"><a href="/bbs/Test/search?q=thread%3A%5B%E8%89%B2%E5%BD%A9%5D&#43;">搜尋同標題文章</a></div>
+						
+						<div class="item"><a href="/bbs/Test/search?q=author%3Agolang">搜尋看板內 golang 的文章</a></div>
+						
+					</div>
+					
+				</div>
+				<div class="date"> 8/19</div>
+				<div class="mark"></div>
+			</div>
+		</div>
+
+		
+            
+        
+        
+		<div class="r-ent">
+			<div class="nrec"></div>
+			<div class="title">
+			
+				(本文已被刪除) [qxpbyd]
+			
+			</div>
+			<div class="meta">
+				<div class="author">-</div>
+				<div class="article-menu">
+					
+				</div>
+				<div class="date"> 8/19</div>
+				<div class="mark"></div>
+			</div>
+		</div>
+
+		
+        
+        <div class="r-list-sep"></div>
+            
+                
+        
+        
+		<div class="r-ent">
+			<div class="nrec"></div>
+			<div class="title">
+			
+				<a href="/bbs/Test/M.1185185786.A.27B.html">[公告] 每週定期清除本板文章</a>
+			
+			</div>
+			<div class="meta">
+				<div class="author">mtdas</div>
+				<div class="article-menu">
+					
+					<div class="trigger">&#x22ef;</div>
+					<div class="dropdown">
+						<div class="item"><a href="/bbs/Test/search?q=thread%3A%5B%E5%85%AC%E5%91%8A%5D&#43;%E6%AF%8F%E9%80%B1%E5%AE%9A%E6%9C%9F%E6%B8%85%E9%99%A4%E6%9C%AC%E6%9D%BF%E6%96%87%E7%AB%A0">搜尋同標題文章</a></div>
+						
+						<div class="item"><a href="/bbs/Test/search?q=author%3Amtdas">搜尋看板內 mtdas 的文章</a></div>
+						
+					</div>
+					
+				</div>
+				<div class="date"> 7/23</div>
+				<div class="mark">!</div>
+			</div>
+		</div>
+
+            
+                
+        
+        
+		<div class="r-ent">
+			<div class="nrec"></div>
+			<div class="title">
+			
+				<a href="/bbs/Test/M.1516372610.A.315.html">[公告] 交易禁止項目之發推文，水桶一年+退文起跳</a>
+			
+			</div>
+			<div class="meta">
+				<div class="author">hank2579</div>
+				<div class="article-menu">
+					
+					<div class="trigger">&#x22ef;</div>
+					<div class="dropdown">
+						<div class="item"><a href="/bbs/Test/search?q=thread%3A%5B%E5%85%AC%E5%91%8A%5D&#43;%E4%BA%A4%E6%98%93%E7%A6%81%E6%AD%A2%E9%A0%85%E7%9B%AE%E4%B9%8B%E7%99%BC%E6%8E%A8%E6%96%87%EF%BC%8C%E6%B0%B4%E6%A1%B6%E4%B8%80%E5%B9%B4%2B%E9%80%80%E6%96%87%E8%B5%B7%E8%B7%B3">搜尋同標題文章</a></div>
+						
+						<div class="item"><a href="/bbs/Test/search?q=author%3Ahank2579">搜尋看板內 hank2579 的文章</a></div>
+						
+					</div>
+					
+				</div>
+				<div class="date"> 1/19</div>
+				<div class="mark">!</div>
+			</div>
+		</div>
+
+            
+                
+        
+        
+		<div class="r-ent">
+			<div class="nrec"></div>
+			<div class="title">
+			
+				<a href="/bbs/Test/M.1632506402.A.56B.html">[公告] Test 板規 (2021/10/03 起適用)</a>
+			
+			</div>
+			<div class="meta">
+				<div class="author">hank2579</div>
+				<div class="article-menu">
+					
+					<div class="trigger">&#x22ef;</div>
+					<div class="dropdown">
+						<div class="item"><a href="/bbs/Test/search?q=thread%3A%5B%E5%85%AC%E5%91%8A%5D&#43;Test&#43;%E6%9D%BF%E8%A6%8F&#43;%282021%2F10%2F03&#43;%E8%B5%B7%E9%81%A9%E7%94%A8%29">搜尋同標題文章</a></div>
+						
+						<div class="item"><a href="/bbs/Test/search?q=author%3Ahank2579">搜尋看板內 hank2579 的文章</a></div>
+						
+					</div>
+					
+				</div>
+				<div class="date"> 9/25</div>
+				<div class="mark">!</div>
+			</div>
+		</div>
+
+            
+                
+        
+        
+		<div class="r-ent">
+			<div class="nrec"><span class="hl f2">7</span></div>
+			<div class="title">
+			
+				<a href="/bbs/Test/M.1632504676.A.0CB.html">[公告] 測試推文區</a>
+			
+			</div>
+			<div class="meta">
+				<div class="author">hank2579</div>
+				<div class="article-menu">
+					
+					<div class="trigger">&#x22ef;</div>
+					<div class="dropdown">
+						<div class="item"><a href="/bbs/Test/search?q=thread%3A%5B%E5%85%AC%E5%91%8A%5D&#43;%E6%B8%AC%E8%A9%A6%E6%8E%A8%E6%96%87%E5%8D%80">搜尋同標題文章</a></div>
+						
+						<div class="item"><a href="/bbs/Test/search?q=author%3Ahank2579">搜尋看板內 hank2579 的文章</a></div>
+						
+					</div>
+					
+				</div>
+				<div class="date"> 9/25</div>
+				<div class="mark"></div>
+			</div>
+		</div>
+
+            
+        
+	</div>
+
+    
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.27/bbs.js"></script>
+
+    <script defer src="https://static.cloudflareinsights.com/beacon.min.js/v652eace1692a40cfa3763df669d7439c1639079717194" integrity="sha512-Gi7xpJR8tSkrpF7aordPZQlW2DLtzUlZcumS8dMQjwDHEnw9I7ZLyiOj/6tZStRBGtGgN6ceN6cMH8z7etPGlw==" data-cf-beacon='{"rayId":"73cf07b80f2480e4","version":"2022.8.0","r":1,"token":"515615eb5fab4c9b91a11e9bf529e6cf","si":100}' crossorigin="anonymous"></script>
+</body>
+</html>

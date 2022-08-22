@@ -1,0 +1,351 @@
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>看板 Tech_Job 文章列表 - 批踢踢實業坊</title>
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/bbs/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Tech_Job/index.html"><span class="board-label">看板 </span>Tech_Job</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+
+<div id="main-container">
+	<div id="action-bar-container">
+		<div class="action-bar">
+			<div class="btn-group btn-group-dir">
+				<a class="btn selected" href="/bbs/Tech_Job/index.html">看板</a>
+				<a class="btn" href="/man/Tech_Job/index.html">精華區</a>
+			</div>
+			<div class="btn-group btn-group-paging">
+				<a class="btn wide" href="/bbs/Tech_Job/index1.html">最舊</a>
+				<a class="btn wide" href="/bbs/Tech_Job/index3998.html">&lsaquo; 上頁</a>
+				<a class="btn wide disabled">下頁 &rsaquo;</a>
+				<a class="btn wide" href="/bbs/Tech_Job/index.html">最新</a>
+			</div>
+		</div>
+	</div>
+
+	<div class="r-list-container action-bar-margin bbs-screen">
+		<div class="search-bar">
+			<form type="get" action="search" id="search-bar">
+				<input class="query" type="text" name="q" value="" placeholder="搜尋文章&#x22ef;">
+			</form>
+		</div>
+
+		
+		
+            
+        
+        
+		<div class="r-ent">
+			<div class="nrec"><span class="hl f2">9</span></div>
+			<div class="title">
+			
+				<a href="/bbs/Tech_Job/M.1661006556.A.C5D.html">[討論] 新鮮人從台廠IC豬屎起手較好？</a>
+			
+			</div>
+			<div class="meta">
+				<div class="author">PPTplayer</div>
+				<div class="article-menu">
+					
+					<div class="trigger">&#x22ef;</div>
+					<div class="dropdown">
+						<div class="item"><a href="/bbs/Tech_Job/search?q=thread%3A%5B%E8%A8%8E%E8%AB%96%5D&#43;%E6%96%B0%E9%AE%AE%E4%BA%BA%E5%BE%9E%E5%8F%B0%E5%BB%A0IC%E8%B1%AC%E5%B1%8E%E8%B5%B7%E6%89%8B%E8%BC%83%E5%A5%BD%EF%BC%9F">搜尋同標題文章</a></div>
+						
+						<div class="item"><a href="/bbs/Tech_Job/search?q=author%3APPTplayer">搜尋看板內 PPTplayer 的文章</a></div>
+						
+					</div>
+					
+				</div>
+				<div class="date"> 8/20</div>
+				<div class="mark"></div>
+			</div>
+		</div>
+
+		
+            
+        
+        
+		<div class="r-ent">
+			<div class="nrec"></div>
+			<div class="title">
+			
+				<a href="/bbs/Tech_Job/M.1661018083.A.40B.html">Re: [請益] 錢與家庭該如何兼顧?</a>
+			
+			</div>
+			<div class="meta">
+				<div class="author">bwnzer</div>
+				<div class="article-menu">
+					
+					<div class="trigger">&#x22ef;</div>
+					<div class="dropdown">
+						<div class="item"><a href="/bbs/Tech_Job/search?q=thread%3A%5B%E8%AB%8B%E7%9B%8A%5D&#43;%E9%8C%A2%E8%88%87%E5%AE%B6%E5%BA%AD%E8%A9%B2%E5%A6%82%E4%BD%95%E5%85%BC%E9%A1%A7%3F">搜尋同標題文章</a></div>
+						
+						<div class="item"><a href="/bbs/Tech_Job/search?q=author%3Abwnzer">搜尋看板內 bwnzer 的文章</a></div>
+						
+					</div>
+					
+				</div>
+				<div class="date"> 8/21</div>
+				<div class="mark"></div>
+			</div>
+		</div>
+
+		
+            
+        
+        
+		<div class="r-ent">
+			<div class="nrec"><span class="hl f2">1</span></div>
+			<div class="title">
+			
+				<a href="/bbs/Tech_Job/M.1661025430.A.971.html">Re: [討論] 科技業女工程師的未來？</a>
+			
+			</div>
+			<div class="meta">
+				<div class="author">ttchen</div>
+				<div class="article-menu">
+					
+					<div class="trigger">&#x22ef;</div>
+					<div class="dropdown">
+						<div class="item"><a href="/bbs/Tech_Job/search?q=thread%3A%5B%E8%A8%8E%E8%AB%96%5D&#43;%E7%A7%91%E6%8A%80%E6%A5%AD%E5%A5%B3%E5%B7%A5%E7%A8%8B%E5%B8%AB%E7%9A%84%E6%9C%AA%E4%BE%86%EF%BC%9F">搜尋同標題文章</a></div>
+						
+						<div class="item"><a href="/bbs/Tech_Job/search?q=author%3Attchen">搜尋看板內 ttchen 的文章</a></div>
+						
+					</div>
+					
+				</div>
+				<div class="date"> 8/21</div>
+				<div class="mark"></div>
+			</div>
+		</div>
+
+		
+            
+        
+        
+		<div class="r-ent">
+			<div class="nrec"></div>
+			<div class="title">
+			
+				<a href="/bbs/Tech_Job/M.1661043499.A.2F4.html">Re: [討論] 科技業女工程師的未來？</a>
+			
+			</div>
+			<div class="meta">
+				<div class="author">a000000000</div>
+				<div class="article-menu">
+					
+					<div class="trigger">&#x22ef;</div>
+					<div class="dropdown">
+						<div class="item"><a href="/bbs/Tech_Job/search?q=thread%3A%5B%E8%A8%8E%E8%AB%96%5D&#43;%E7%A7%91%E6%8A%80%E6%A5%AD%E5%A5%B3%E5%B7%A5%E7%A8%8B%E5%B8%AB%E7%9A%84%E6%9C%AA%E4%BE%86%EF%BC%9F">搜尋同標題文章</a></div>
+						
+						<div class="item"><a href="/bbs/Tech_Job/search?q=author%3Aa000000000">搜尋看板內 a000000000 的文章</a></div>
+						
+					</div>
+					
+				</div>
+				<div class="date"> 8/21</div>
+				<div class="mark"></div>
+			</div>
+		</div>
+
+		
+        
+        <div class="r-list-sep"></div>
+            
+                
+        
+        
+		<div class="r-ent">
+			<div class="nrec"><span class="hl f3">27</span></div>
+			<div class="title">
+			
+				<a href="/bbs/Tech_Job/M.1393646135.A.A28.html">[公告] Tech_Job板板規 2022.05.26更新</a>
+			
+			</div>
+			<div class="meta">
+				<div class="author">mmkntust</div>
+				<div class="article-menu">
+					
+					<div class="trigger">&#x22ef;</div>
+					<div class="dropdown">
+						<div class="item"><a href="/bbs/Tech_Job/search?q=thread%3A%5B%E5%85%AC%E5%91%8A%5D&#43;Tech_Job%E6%9D%BF%E6%9D%BF%E8%A6%8F&#43;2022.05.26%E6%9B%B4%E6%96%B0">搜尋同標題文章</a></div>
+						
+						<div class="item"><a href="/bbs/Tech_Job/search?q=author%3Ammkntust">搜尋看板內 mmkntust 的文章</a></div>
+						
+					</div>
+					
+				</div>
+				<div class="date"> 3/01</div>
+				<div class="mark">M</div>
+			</div>
+		</div>
+
+            
+                
+        
+        
+		<div class="r-ent">
+			<div class="nrec"><span class="hl f1">爆</span></div>
+			<div class="title">
+			
+				<a href="/bbs/Tech_Job/M.1410062073.A.1B6.html">[公告] 置底 檢舉/推薦 文章</a>
+			
+			</div>
+			<div class="meta">
+				<div class="author">mmkntust</div>
+				<div class="article-menu">
+					
+					<div class="trigger">&#x22ef;</div>
+					<div class="dropdown">
+						<div class="item"><a href="/bbs/Tech_Job/search?q=thread%3A%5B%E5%85%AC%E5%91%8A%5D&#43;%E7%BD%AE%E5%BA%95&#43;%E6%AA%A2%E8%88%89%2F%E6%8E%A8%E8%96%A6&#43;%E6%96%87%E7%AB%A0">搜尋同標題文章</a></div>
+						
+						<div class="item"><a href="/bbs/Tech_Job/search?q=author%3Ammkntust">搜尋看板內 mmkntust 的文章</a></div>
+						
+					</div>
+					
+				</div>
+				<div class="date"> 9/07</div>
+				<div class="mark">M</div>
+			</div>
+		</div>
+
+            
+                
+        
+        
+		<div class="r-ent">
+			<div class="nrec"><span class="hl f2">2</span></div>
+			<div class="title">
+			
+				<a href="/bbs/Tech_Job/M.1425268790.A.15E.html">[公告] 如何消除退文 轉自Ask板</a>
+			
+			</div>
+			<div class="meta">
+				<div class="author">mmkntust</div>
+				<div class="article-menu">
+					
+					<div class="trigger">&#x22ef;</div>
+					<div class="dropdown">
+						<div class="item"><a href="/bbs/Tech_Job/search?q=thread%3A%5B%E5%85%AC%E5%91%8A%5D&#43;%E5%A6%82%E4%BD%95%E6%B6%88%E9%99%A4%E9%80%80%E6%96%87&#43;%E8%BD%89%E8%87%AAAsk%E6%9D%BF">搜尋同標題文章</a></div>
+						
+						<div class="item"><a href="/bbs/Tech_Job/search?q=author%3Ammkntust">搜尋看板內 mmkntust 的文章</a></div>
+						
+					</div>
+					
+				</div>
+				<div class="date"> 3/02</div>
+				<div class="mark">M</div>
+			</div>
+		</div>
+
+            
+                
+        
+        
+		<div class="r-ent">
+			<div class="nrec"><span class="hl f3">30</span></div>
+			<div class="title">
+			
+				<a href="/bbs/Tech_Job/M.1585618843.A.D43.html">[情報] 薪資查詢平台</a>
+			
+			</div>
+			<div class="meta">
+				<div class="author">mmkntust</div>
+				<div class="article-menu">
+					
+					<div class="trigger">&#x22ef;</div>
+					<div class="dropdown">
+						<div class="item"><a href="/bbs/Tech_Job/search?q=thread%3A%5B%E6%83%85%E5%A0%B1%5D&#43;%E8%96%AA%E8%B3%87%E6%9F%A5%E8%A9%A2%E5%B9%B3%E5%8F%B0">搜尋同標題文章</a></div>
+						
+						<div class="item"><a href="/bbs/Tech_Job/search?q=author%3Ammkntust">搜尋看板內 mmkntust 的文章</a></div>
+						
+					</div>
+					
+				</div>
+				<div class="date"> 3/31</div>
+				<div class="mark">M</div>
+			</div>
+		</div>
+
+            
+                
+        
+        
+		<div class="r-ent">
+			<div class="nrec"><span class="hl f3">10</span></div>
+			<div class="title">
+			
+				<a href="/bbs/Tech_Job/M.1653574616.A.A15.html">[公告] 板規十五 offer請益文 m文解除申請</a>
+			
+			</div>
+			<div class="meta">
+				<div class="author">mmkntust</div>
+				<div class="article-menu">
+					
+					<div class="trigger">&#x22ef;</div>
+					<div class="dropdown">
+						<div class="item"><a href="/bbs/Tech_Job/search?q=thread%3A%5B%E5%85%AC%E5%91%8A%5D&#43;%E6%9D%BF%E8%A6%8F%E5%8D%81%E4%BA%94&#43;offer%E8%AB%8B%E7%9B%8A%E6%96%87&#43;m%E6%96%87%E8%A7%A3%E9%99%A4%E7%94%B3%E8%AB%8B">搜尋同標題文章</a></div>
+						
+						<div class="item"><a href="/bbs/Tech_Job/search?q=author%3Ammkntust">搜尋看板內 mmkntust 的文章</a></div>
+						
+					</div>
+					
+				</div>
+				<div class="date"> 5/26</div>
+				<div class="mark">M</div>
+			</div>
+		</div>
+
+            
+        
+	</div>
+
+    
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.27/bbs.js"></script>
+
+    <script defer src="https://static.cloudflareinsights.com/beacon.min.js/v652eace1692a40cfa3763df669d7439c1639079717194" integrity="sha512-Gi7xpJR8tSkrpF7aordPZQlW2DLtzUlZcumS8dMQjwDHEnw9I7ZLyiOj/6tZStRBGtGgN6ceN6cMH8z7etPGlw==" data-cf-beacon='{"rayId":"73df766db94e80c3","version":"2022.8.0","r":1,"token":"515615eb5fab4c9b91a11e9bf529e6cf","si":100}' crossorigin="anonymous"></script>
+</body>
+</html>

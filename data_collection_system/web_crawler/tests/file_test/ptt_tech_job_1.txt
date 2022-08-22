@@ -1,0 +1,665 @@
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>看板 Tech_Job 文章列表 - 批踢踢實業坊</title>
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/bbs/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Tech_Job/index.html"><span class="board-label">看板 </span>Tech_Job</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+
+<div id="main-container">
+	<div id="action-bar-container">
+		<div class="action-bar">
+			<div class="btn-group btn-group-dir">
+				<a class="btn selected" href="/bbs/Tech_Job/index.html">看板</a>
+				<a class="btn" href="/man/Tech_Job/index.html">精華區</a>
+			</div>
+			<div class="btn-group btn-group-paging">
+				<a class="btn wide" href="/bbs/Tech_Job/index1.html">最舊</a>
+				<a class="btn wide disabled">&lsaquo; 上頁</a>
+				<a class="btn wide" href="/bbs/Tech_Job/index2.html">下頁 &rsaquo;</a>
+				<a class="btn wide" href="/bbs/Tech_Job/index.html">最新</a>
+			</div>
+		</div>
+	</div>
+
+	<div class="r-list-container action-bar-margin bbs-screen">
+		<div class="search-bar">
+			<form type="get" action="search" id="search-bar">
+				<input class="query" type="text" name="q" value="" placeholder="搜尋文章&#x22ef;">
+			</form>
+		</div>
+
+		
+		
+            
+        
+        
+		<div class="r-ent">
+			<div class="nrec"><span class="hl f2">6</span></div>
+			<div class="title">
+			
+				<a href="/bbs/Tech_Job/M.1084713143.A.255.html">[公告]有關本板</a>
+			
+			</div>
+			<div class="meta">
+				<div class="author">Rooney</div>
+				<div class="article-menu">
+					
+					<div class="trigger">&#x22ef;</div>
+					<div class="dropdown">
+						<div class="item"><a href="/bbs/Tech_Job/search?q=thread%3A%5B%E5%85%AC%E5%91%8A%5D%E6%9C%89%E9%97%9C%E6%9C%AC%E6%9D%BF">搜尋同標題文章</a></div>
+						
+						<div class="item"><a href="/bbs/Tech_Job/search?q=author%3ARooney">搜尋看板內 Rooney 的文章</a></div>
+						
+					</div>
+					
+				</div>
+				<div class="date"> 5/16</div>
+				<div class="mark">M</div>
+			</div>
+		</div>
+
+		
+            
+        
+        
+		<div class="r-ent">
+			<div class="nrec"><span class="hl f2">9</span></div>
+			<div class="title">
+			
+				<a href="/bbs/Tech_Job/M.1084713565.A.D36.html">[轉錄]職位中英文</a>
+			
+			</div>
+			<div class="meta">
+				<div class="author">Rooney</div>
+				<div class="article-menu">
+					
+					<div class="trigger">&#x22ef;</div>
+					<div class="dropdown">
+						<div class="item"><a href="/bbs/Tech_Job/search?q=thread%3A%E8%81%B7%E4%BD%8D%E4%B8%AD%E8%8B%B1%E6%96%87">搜尋同標題文章</a></div>
+						
+						<div class="item"><a href="/bbs/Tech_Job/search?q=author%3ARooney">搜尋看板內 Rooney 的文章</a></div>
+						
+					</div>
+					
+				</div>
+				<div class="date"> 5/16</div>
+				<div class="mark">M</div>
+			</div>
+		</div>
+
+		
+            
+        
+        
+		<div class="r-ent">
+			<div class="nrec"><span class="hl f3">72</span></div>
+			<div class="title">
+			
+				<a href="/bbs/Tech_Job/M.1143282919.A.F48.html">Re: [轉錄][就可] 嫁給工程師的好處多?! ^_^</a>
+			
+			</div>
+			<div class="meta">
+				<div class="author">azer</div>
+				<div class="article-menu">
+					
+					<div class="trigger">&#x22ef;</div>
+					<div class="dropdown">
+						<div class="item"><a href="/bbs/Tech_Job/search?q=thread%3A%5B%E5%B0%B1%E5%8F%AF%5D&#43;%E5%AB%81%E7%B5%A6%E5%B7%A5%E7%A8%8B%E5%B8%AB%E7%9A%84%E5%A5%BD%E8%99%95%E5%A4%9A%3F%21&#43;%5E_%5E">搜尋同標題文章</a></div>
+						
+						<div class="item"><a href="/bbs/Tech_Job/search?q=author%3Aazer">搜尋看板內 azer 的文章</a></div>
+						
+					</div>
+					
+				</div>
+				<div class="date"> 3/25</div>
+				<div class="mark">M</div>
+			</div>
+		</div>
+
+		
+            
+        
+        
+		<div class="r-ent">
+			<div class="nrec"><span class="hl f2">4</span></div>
+			<div class="title">
+			
+				<a href="/bbs/Tech_Job/M.1164514504.A.86F.html">[公告] 發文類別新增　[國防] 選項</a>
+			
+			</div>
+			<div class="meta">
+				<div class="author">Rooney</div>
+				<div class="article-menu">
+					
+					<div class="trigger">&#x22ef;</div>
+					<div class="dropdown">
+						<div class="item"><a href="/bbs/Tech_Job/search?q=thread%3A%5B%E5%85%AC%E5%91%8A%5D&#43;%E7%99%BC%E6%96%87%E9%A1%9E%E5%88%A5%E6%96%B0%E5%A2%9E%E3%80%80%5B%E5%9C%8B%E9%98%B2%5D&#43;%E9%81%B8%E9%A0%85">搜尋同標題文章</a></div>
+						
+						<div class="item"><a href="/bbs/Tech_Job/search?q=author%3ARooney">搜尋看板內 Rooney 的文章</a></div>
+						
+					</div>
+					
+				</div>
+				<div class="date">11/26</div>
+				<div class="mark">M</div>
+			</div>
+		</div>
+
+		
+            
+        
+        
+		<div class="r-ent">
+			<div class="nrec"><span class="hl f2">2</span></div>
+			<div class="title">
+			
+				<a href="/bbs/Tech_Job/M.1179532081.A.html">[Tech_Job] 看板 選情報導</a>
+			
+			</div>
+			<div class="meta">
+				<div class="author">[馬路探子]</div>
+				<div class="article-menu">
+					
+					<div class="trigger">&#x22ef;</div>
+					<div class="dropdown">
+						<div class="item"><a href="/bbs/Tech_Job/search?q=thread%3A%5BTech_Job%5D&#43;%E7%9C%8B%E6%9D%BF&#43;%E9%81%B8%E6%83%85%E5%A0%B1%E5%B0%8E">搜尋同標題文章</a></div>
+						
+					</div>
+					
+				</div>
+				<div class="date"> 5/19</div>
+				<div class="mark">M</div>
+			</div>
+		</div>
+
+		
+            
+        
+        
+		<div class="r-ent">
+			<div class="nrec"><span class="hl f2">1</span></div>
+			<div class="title">
+			
+				<a href="/bbs/Tech_Job/M.1179549233.A.9C7.html">[公告] 投票結果與新板主志工報名</a>
+			
+			</div>
+			<div class="meta">
+				<div class="author">Rooney</div>
+				<div class="article-menu">
+					
+					<div class="trigger">&#x22ef;</div>
+					<div class="dropdown">
+						<div class="item"><a href="/bbs/Tech_Job/search?q=thread%3A%5B%E5%85%AC%E5%91%8A%5D&#43;%E6%8A%95%E7%A5%A8%E7%B5%90%E6%9E%9C%E8%88%87%E6%96%B0%E6%9D%BF%E4%B8%BB%E5%BF%97%E5%B7%A5%E5%A0%B1%E5%90%8D">搜尋同標題文章</a></div>
+						
+						<div class="item"><a href="/bbs/Tech_Job/search?q=author%3ARooney">搜尋看板內 Rooney 的文章</a></div>
+						
+					</div>
+					
+				</div>
+				<div class="date"> 5/19</div>
+				<div class="mark">M</div>
+			</div>
+		</div>
+
+		
+            
+        
+        
+		<div class="r-ent">
+			<div class="nrec"><span class="hl f2">6</span></div>
+			<div class="title">
+			
+				<a href="/bbs/Tech_Job/M.1180010734.A.249.html">Re: [公告] 投票結果與新板主志工報名</a>
+			
+			</div>
+			<div class="meta">
+				<div class="author">Rooney</div>
+				<div class="article-menu">
+					
+					<div class="trigger">&#x22ef;</div>
+					<div class="dropdown">
+						<div class="item"><a href="/bbs/Tech_Job/search?q=thread%3A%5B%E5%85%AC%E5%91%8A%5D&#43;%E6%8A%95%E7%A5%A8%E7%B5%90%E6%9E%9C%E8%88%87%E6%96%B0%E6%9D%BF%E4%B8%BB%E5%BF%97%E5%B7%A5%E5%A0%B1%E5%90%8D">搜尋同標題文章</a></div>
+						
+						<div class="item"><a href="/bbs/Tech_Job/search?q=author%3ARooney">搜尋看板內 Rooney 的文章</a></div>
+						
+					</div>
+					
+				</div>
+				<div class="date"> 5/24</div>
+				<div class="mark">M</div>
+			</div>
+		</div>
+
+		
+            
+        
+        
+		<div class="r-ent">
+			<div class="nrec"><span class="hl f1">爆</span></div>
+			<div class="title">
+			
+				<a href="/bbs/Tech_Job/M.1211978658.A.BB4.html">Re: [問題] 科技人的另一半</a>
+			
+			</div>
+			<div class="meta">
+				<div class="author">Irisyeh</div>
+				<div class="article-menu">
+					
+					<div class="trigger">&#x22ef;</div>
+					<div class="dropdown">
+						<div class="item"><a href="/bbs/Tech_Job/search?q=thread%3A%5B%E5%95%8F%E9%A1%8C%5D&#43;%E7%A7%91%E6%8A%80%E4%BA%BA%E7%9A%84%E5%8F%A6%E4%B8%80%E5%8D%8A">搜尋同標題文章</a></div>
+						
+						<div class="item"><a href="/bbs/Tech_Job/search?q=author%3AIrisyeh">搜尋看板內 Irisyeh 的文章</a></div>
+						
+					</div>
+					
+				</div>
+				<div class="date"> 5/28</div>
+				<div class="mark">M</div>
+			</div>
+		</div>
+
+		
+            
+        
+        
+		<div class="r-ent">
+			<div class="nrec"><span class="hl f3">27</span></div>
+			<div class="title">
+			
+				<a href="/bbs/Tech_Job/M.1215939742.A.C43.html">[心得] 請大家注意身體健康噢!</a>
+			
+			</div>
+			<div class="meta">
+				<div class="author">chienyu211</div>
+				<div class="article-menu">
+					
+					<div class="trigger">&#x22ef;</div>
+					<div class="dropdown">
+						<div class="item"><a href="/bbs/Tech_Job/search?q=thread%3A%5B%E5%BF%83%E5%BE%97%5D&#43;%E8%AB%8B%E5%A4%A7%E5%AE%B6%E6%B3%A8%E6%84%8F%E8%BA%AB%E9%AB%94%E5%81%A5%E5%BA%B7%E5%99%A2%21">搜尋同標題文章</a></div>
+						
+						<div class="item"><a href="/bbs/Tech_Job/search?q=author%3Achienyu211">搜尋看板內 chienyu211 的文章</a></div>
+						
+					</div>
+					
+				</div>
+				<div class="date"> 7/13</div>
+				<div class="mark">M</div>
+			</div>
+		</div>
+
+		
+            
+        
+        
+		<div class="r-ent">
+			<div class="nrec"><span class="hl f2">8</span></div>
+			<div class="title">
+			
+				<a href="/bbs/Tech_Job/M.1217175867.A.051.html">[公告] 板規修改</a>
+			
+			</div>
+			<div class="meta">
+				<div class="author">Rooney</div>
+				<div class="article-menu">
+					
+					<div class="trigger">&#x22ef;</div>
+					<div class="dropdown">
+						<div class="item"><a href="/bbs/Tech_Job/search?q=thread%3A%5B%E5%85%AC%E5%91%8A%5D&#43;%E6%9D%BF%E8%A6%8F%E4%BF%AE%E6%94%B9">搜尋同標題文章</a></div>
+						
+						<div class="item"><a href="/bbs/Tech_Job/search?q=author%3ARooney">搜尋看板內 Rooney 的文章</a></div>
+						
+					</div>
+					
+				</div>
+				<div class="date"> 7/28</div>
+				<div class="mark">M</div>
+			</div>
+		</div>
+
+		
+            
+        
+        
+		<div class="r-ent">
+			<div class="nrec"><span class="hl f0">X9</span></div>
+			<div class="title">
+			
+				<a href="/bbs/Tech_Job/M.1218384040.A.5CE.html">Re: [心得] 竹朝科技---一個讓我失望+後悔的公司</a>
+			
+			</div>
+			<div class="meta">
+				<div class="author">bear3</div>
+				<div class="article-menu">
+					
+					<div class="trigger">&#x22ef;</div>
+					<div class="dropdown">
+						<div class="item"><a href="/bbs/Tech_Job/search?q=thread%3A%5B%E5%BF%83%E5%BE%97%5D&#43;%E7%AB%B9%E6%9C%9D%E7%A7%91%E6%8A%80---%E4%B8%80%E5%80%8B%E8%AE%93%E6%88%91%E5%A4%B1%E6%9C%9B%2B%E5%BE%8C%E6%82%94%E7%9A%84%E5%85%AC%E5%8F%B8">搜尋同標題文章</a></div>
+						
+						<div class="item"><a href="/bbs/Tech_Job/search?q=author%3Abear3">搜尋看板內 bear3 的文章</a></div>
+						
+					</div>
+					
+				</div>
+				<div class="date"> 8/11</div>
+				<div class="mark">M</div>
+			</div>
+		</div>
+
+		
+            
+        
+        
+		<div class="r-ent">
+			<div class="nrec"><span class="hl f2">4</span></div>
+			<div class="title">
+			
+				<a href="/bbs/Tech_Job/M.1220011862.A.651.html">Re: [無關]boylover兄臺</a>
+			
+			</div>
+			<div class="meta">
+				<div class="author">Rooney</div>
+				<div class="article-menu">
+					
+					<div class="trigger">&#x22ef;</div>
+					<div class="dropdown">
+						<div class="item"><a href="/bbs/Tech_Job/search?q=thread%3A%5B%E7%84%A1%E9%97%9C%5Dboylover%E5%85%84%E8%87%BA">搜尋同標題文章</a></div>
+						
+						<div class="item"><a href="/bbs/Tech_Job/search?q=author%3ARooney">搜尋看板內 Rooney 的文章</a></div>
+						
+					</div>
+					
+				</div>
+				<div class="date"> 8/29</div>
+				<div class="mark">M</div>
+			</div>
+		</div>
+
+		
+            
+        
+        
+		<div class="r-ent">
+			<div class="nrec"><span class="hl f2">6</span></div>
+			<div class="title">
+			
+				<a href="/bbs/Tech_Job/M.1221661875.A.38A.html">[公告] 發文限制問題</a>
+			
+			</div>
+			<div class="meta">
+				<div class="author">Rooney</div>
+				<div class="article-menu">
+					
+					<div class="trigger">&#x22ef;</div>
+					<div class="dropdown">
+						<div class="item"><a href="/bbs/Tech_Job/search?q=thread%3A%5B%E5%85%AC%E5%91%8A%5D&#43;%E7%99%BC%E6%96%87%E9%99%90%E5%88%B6%E5%95%8F%E9%A1%8C">搜尋同標題文章</a></div>
+						
+						<div class="item"><a href="/bbs/Tech_Job/search?q=author%3ARooney">搜尋看板內 Rooney 的文章</a></div>
+						
+					</div>
+					
+				</div>
+				<div class="date"> 9/17</div>
+				<div class="mark">M</div>
+			</div>
+		</div>
+
+		
+            
+        
+        
+		<div class="r-ent">
+			<div class="nrec"><span class="hl f3">79</span></div>
+			<div class="title">
+			
+				<a href="/bbs/Tech_Job/M.1222740651.A.B5D.html">Re: [問題] 為什麼分紅費用化對員工不好呢?</a>
+			
+			</div>
+			<div class="meta">
+				<div class="author">LKO</div>
+				<div class="article-menu">
+					
+					<div class="trigger">&#x22ef;</div>
+					<div class="dropdown">
+						<div class="item"><a href="/bbs/Tech_Job/search?q=thread%3A%5B%E5%95%8F%E9%A1%8C%5D&#43;%E7%82%BA%E4%BB%80%E9%BA%BC%E5%88%86%E7%B4%85%E8%B2%BB%E7%94%A8%E5%8C%96%E5%B0%8D%E5%93%A1%E5%B7%A5%E4%B8%8D%E5%A5%BD%E5%91%A2%3F">搜尋同標題文章</a></div>
+						
+						<div class="item"><a href="/bbs/Tech_Job/search?q=author%3ALKO">搜尋看板內 LKO 的文章</a></div>
+						
+					</div>
+					
+				</div>
+				<div class="date"> 9/30</div>
+				<div class="mark">M</div>
+			</div>
+		</div>
+
+		
+            
+        
+        
+		<div class="r-ent">
+			<div class="nrec"><span class="hl f2">5</span></div>
+			<div class="title">
+			
+				<a href="/bbs/Tech_Job/M.1227315066.A.14C.html">[公告] 食衣住行與內幕文問題</a>
+			
+			</div>
+			<div class="meta">
+				<div class="author">Rooney</div>
+				<div class="article-menu">
+					
+					<div class="trigger">&#x22ef;</div>
+					<div class="dropdown">
+						<div class="item"><a href="/bbs/Tech_Job/search?q=thread%3A%5B%E5%85%AC%E5%91%8A%5D&#43;%E9%A3%9F%E8%A1%A3%E4%BD%8F%E8%A1%8C%E8%88%87%E5%85%A7%E5%B9%95%E6%96%87%E5%95%8F%E9%A1%8C">搜尋同標題文章</a></div>
+						
+						<div class="item"><a href="/bbs/Tech_Job/search?q=author%3ARooney">搜尋看板內 Rooney 的文章</a></div>
+						
+					</div>
+					
+				</div>
+				<div class="date">11/22</div>
+				<div class="mark">M</div>
+			</div>
+		</div>
+
+		
+            
+        
+        
+		<div class="r-ent">
+			<div class="nrec"><span class="hl f2">4</span></div>
+			<div class="title">
+			
+				<a href="/bbs/Tech_Job/M.1228018096.A.C4E.html">[公告] 常見問題整理</a>
+			
+			</div>
+			<div class="meta">
+				<div class="author">Rooney</div>
+				<div class="article-menu">
+					
+					<div class="trigger">&#x22ef;</div>
+					<div class="dropdown">
+						<div class="item"><a href="/bbs/Tech_Job/search?q=thread%3A%5B%E5%85%AC%E5%91%8A%5D&#43;%E5%B8%B8%E8%A6%8B%E5%95%8F%E9%A1%8C%E6%95%B4%E7%90%86">搜尋同標題文章</a></div>
+						
+						<div class="item"><a href="/bbs/Tech_Job/search?q=author%3ARooney">搜尋看板內 Rooney 的文章</a></div>
+						
+					</div>
+					
+				</div>
+				<div class="date">11/30</div>
+				<div class="mark">M</div>
+			</div>
+		</div>
+
+		
+            
+        
+        
+		<div class="r-ent">
+			<div class="nrec"><span class="hl f3">20</span></div>
+			<div class="title">
+			
+				<a href="/bbs/Tech_Job/M.1230204305.A.54F.html">[閒聊] 被資遣注意事項!!!</a>
+			
+			</div>
+			<div class="meta">
+				<div class="author">oca</div>
+				<div class="article-menu">
+					
+					<div class="trigger">&#x22ef;</div>
+					<div class="dropdown">
+						<div class="item"><a href="/bbs/Tech_Job/search?q=thread%3A%5B%E9%96%92%E8%81%8A%5D&#43;%E8%A2%AB%E8%B3%87%E9%81%A3%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A0%85%21%21%21">搜尋同標題文章</a></div>
+						
+						<div class="item"><a href="/bbs/Tech_Job/search?q=author%3Aoca">搜尋看板內 oca 的文章</a></div>
+						
+					</div>
+					
+				</div>
+				<div class="date">12/25</div>
+				<div class="mark">M</div>
+			</div>
+		</div>
+
+		
+            
+        
+        
+		<div class="r-ent">
+			<div class="nrec"><span class="hl f2">5</span></div>
+			<div class="title">
+			
+				<a href="/bbs/Tech_Job/M.1232510850.A.C9C.html">Re: [問題] 上夜班如何調整作息?</a>
+			
+			</div>
+			<div class="meta">
+				<div class="author">tatibana31</div>
+				<div class="article-menu">
+					
+					<div class="trigger">&#x22ef;</div>
+					<div class="dropdown">
+						<div class="item"><a href="/bbs/Tech_Job/search?q=thread%3A%5B%E5%95%8F%E9%A1%8C%5D&#43;%E4%B8%8A%E5%A4%9C%E7%8F%AD%E5%A6%82%E4%BD%95%E8%AA%BF%E6%95%B4%E4%BD%9C%E6%81%AF%3F">搜尋同標題文章</a></div>
+						
+						<div class="item"><a href="/bbs/Tech_Job/search?q=author%3Atatibana31">搜尋看板內 tatibana31 的文章</a></div>
+						
+					</div>
+					
+				</div>
+				<div class="date"> 1/21</div>
+				<div class="mark">M</div>
+			</div>
+		</div>
+
+		
+            
+        
+        
+		<div class="r-ent">
+			<div class="nrec"><span class="hl f2">4</span></div>
+			<div class="title">
+			
+				<a href="/bbs/Tech_Job/M.1232522339.A.37C.html">[公告] Tech_Job板規 </a>
+			
+			</div>
+			<div class="meta">
+				<div class="author">DEERETTE</div>
+				<div class="article-menu">
+					
+					<div class="trigger">&#x22ef;</div>
+					<div class="dropdown">
+						<div class="item"><a href="/bbs/Tech_Job/search?q=thread%3A%5B%E5%85%AC%E5%91%8A%5D&#43;Tech_Job%E6%9D%BF%E8%A6%8F&#43;">搜尋同標題文章</a></div>
+						
+						<div class="item"><a href="/bbs/Tech_Job/search?q=author%3ADEERETTE">搜尋看板內 DEERETTE 的文章</a></div>
+						
+					</div>
+					
+				</div>
+				<div class="date"> 1/21</div>
+				<div class="mark">M</div>
+			</div>
+		</div>
+
+		
+            
+        
+        
+		<div class="r-ent">
+			<div class="nrec"><span class="hl f2">2</span></div>
+			<div class="title">
+			
+				<a href="/bbs/Tech_Job/M.1232536284.A.6E1.html">[公告] 新的標題分類</a>
+			
+			</div>
+			<div class="meta">
+				<div class="author">layachang</div>
+				<div class="article-menu">
+					
+					<div class="trigger">&#x22ef;</div>
+					<div class="dropdown">
+						<div class="item"><a href="/bbs/Tech_Job/search?q=thread%3A%5B%E5%85%AC%E5%91%8A%5D&#43;%E6%96%B0%E7%9A%84%E6%A8%99%E9%A1%8C%E5%88%86%E9%A1%9E">搜尋同標題文章</a></div>
+						
+						<div class="item"><a href="/bbs/Tech_Job/search?q=author%3Alayachang">搜尋看板內 layachang 的文章</a></div>
+						
+					</div>
+					
+				</div>
+				<div class="date"> 1/21</div>
+				<div class="mark">M</div>
+			</div>
+		</div>
+
+		
+        
+	</div>
+
+    
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.27/bbs.js"></script>
+
+    <script defer src="https://static.cloudflareinsights.com/beacon.min.js/v652eace1692a40cfa3763df669d7439c1639079717194" integrity="sha512-Gi7xpJR8tSkrpF7aordPZQlW2DLtzUlZcumS8dMQjwDHEnw9I7ZLyiOj/6tZStRBGtGgN6ceN6cMH8z7etPGlw==" data-cf-beacon='{"rayId":"73d9641a0c50afbe","version":"2022.8.0","r":1,"token":"515615eb5fab4c9b91a11e9bf529e6cf","si":100}' crossorigin="anonymous"></script>
+</body>
+</html>
