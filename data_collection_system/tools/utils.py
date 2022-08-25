@@ -9,6 +9,9 @@ import pymongo
 import random
 DIR = f"""{str(pathlib.Path(__file__).parent.resolve())}/file/"""
 
+
+
+
 def get_proxy_ip():
     with open(f"""{DIR}proxy_list.txt""", 'r') as file:
         proxy_ips = file.read().splitlines()

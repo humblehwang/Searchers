@@ -20,9 +20,22 @@ def ptt_test_home_page() -> str:
     return "404"
 
 @pytest.fixture
+def ptt_tech_job_header_wo_time() -> str:
+    """Mock for the page which header without time of PTT tech job """
+    with open("tests/file_test/ptt_tech_job_header_wo_time.txt", 'r', encoding="utf-8") as file:
+        return file.read()
+
+@pytest.fixture
 def ptt_tech_job_home_page() -> str:
     """Mock for the home page of PTT tech job """
     with open("tests/file_test/ptt_tech_job.txt", 'r', encoding="utf-8") as file:
+        return file.read()
+
+@pytest.fixture
+def ptt_tech_job_web_page() -> str:
+    """Mock for the page 1 of PTT tech job """
+    print(1233333333333333)
+    with open("tests/file_test/ptt_tech_job_web_page.txt", 'r', encoding="utf-8") as file:
         return file.read()
 
 @pytest.fixture

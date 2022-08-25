@@ -1,5 +1,3 @@
-import pymongo
-from bson.objectid import ObjectId
 from logs import create_logger
 from .helper import get_db_connection
 

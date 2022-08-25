@@ -12,9 +12,15 @@ from custom_exception import GetWebPageError
 from kafka import KafkaProducer, errors
 
 SOURCE = "PTT"
+# Remove the rule, announcement articles on home page
+REMOVE_RULE = {
+    "Tech_Job" : 5,
+    "Soft_Job" : 3,
+}
 
 class pttUrlGetter():
-    def __init__(self, is_first, target_board, producer):
+    """This class is used to get the target url list"""
+    def __init__(self, is_first, target_board):
         self.board_url = (
             f"https://www.ptt.cc/bbs/"
             f"{target_board}/index.html"
@@ -24,10 +30,10 @@ class pttUrlGetter():
         self.latest_url = None
         self.latest_page_index = ""
         self.url_list = []
-        try:
-            self.producer = producer
-        except errors.BrokerNotAvailableError:
-            raise errors.BrokerNotAvailableError
+    #    try:
+    #        self.producer = producer
+    #    except errors.BrokerNotAvailableError:
+    #        raise errors.BrokerNotAvailableError
 
     def set_up(self):
         """Set up all attribute"""
@@ -37,19 +43,24 @@ class pttUrlGetter():
         self.latest_page_index = self.get_latest_page_index()
         self.url_list = self.get_url_list()
 
-    def send_to_kafka(self) -> None:
-        """Send url list to kafka"""
-        for url in self.url_list:
-            self.producer.send(
-                f"{SOURCE}_URL",
-                url.encode("utf-8")
-            )
+    #def send_to_kafka(self) -> None:
+    #    """Send url list to kafka"""
+    #    for url in self.url_list:
+    #        self.producer.send(
+    #            f"{SOURCE}_URL",
+    #            url.encode("utf-8")
+    #        )
 
     def get_latest_page_index(self) -> str:
         """
         Get the latest page index
         Returns:
             latest_page_index(str)
+        Raises:
+            GetWebPageError:
+                http code 500
+                http code 404
+
         """
         response = get_web_page(self.board_url)
         if response == "404":
@@ -106,6 +117,9 @@ class pttUrlGetter():
             For the non-first time to get the board of PTT
             Args:
                 target_url(str)
+            Returns:
+                True(bool):
+                False(bool): Duplicated url have been done
             """
             response = get_web_page(target_url)
             if response == "404":
@@ -125,18 +139,19 @@ class pttUrlGetter():
 
             if str(int(self.latest_page_index) + 1) in target_url:
                 """
-                if the latest page index exist in url
+                if the latest page index exist in url(In the home page)
                 we have to remove the rule, announcement page 
                 """
-                results = results[:-5]
+                results = results[:-REMOVE_RULE[self.target_board]]
             for item in results[::-1]:
                 a_item = item.select_one("a")
                 if a_item:
                     url = 'https://www.ptt.cc' + a_item.get('href')
                     # if get the latest url from web, then break
-                    if url == target_url or (not self.is_first and url == self.latest_url): 
+                    if url == self.latest_url: 
                         return False
                     url_list.append(url)
+            return True
 
         async def get_hrefs_async(target_url: str, session: ClientSession) -> None:
             """

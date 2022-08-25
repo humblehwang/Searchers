@@ -1,0 +1,150 @@
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[請益] 職缺 - 看板 Tech_Job - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="時間: Sat Jun  3 10:11:05 2017
+想問一下各位肉鬆前輩
+二專一年領到18個月是有可能的事嗎？
+這樣算下來bonus就已經6個月，會不會太多＠＠？
+因為算一下18個月年薪大約應該是落在900k上下
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[請益] 職缺">
+<meta property="og:description" content="時間: Sat Jun  3 10:11:05 2017
+想問一下各位肉鬆前輩
+二專一年領到18個月是有可能的事嗎？
+這樣算下來bonus就已經6個月，會不會太多＠＠？
+因為算一下18個月年薪大約應該是落在900k上下
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Tech_Job/M.1496455868.A.304.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/bbs-print.css" media="print">
+
+
+
+
+	</head>
+    <body>
+		
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/bbs/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Tech_Job/index.html"><span class="board-label">看板 </span>Tech_Job</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Tech_Job/index.html">返回看板</a>
+		<div class="bar"></div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">donotworryha (cooper)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Tech_Job</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[請益] 職缺</span></div>
+時間: Sat Jun  3 10:11:05 2017
+
+想問一下各位肉鬆前輩
+
+二專一年領到18個月是有可能的事嗎？
+這樣算下來bonus就已經6個月，會不會太多＠＠？
+因為算一下18個月年薪大約應該是落在900k上下
+
+btw,二專有可能年薪百萬嗎？
+還是只有一專才有這個機會呢？
+工作是跟android bsp有關
+
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 61.219.69.159
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Tech_Job/M.1496455868.A.304.html" target="_blank" rel="noreferrer noopener nofollow">https://www.ptt.cc/bbs/Tech_Job/M.1496455868.A.304.html</a>
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">boychang</span><span class="f3 push-content">: 加班加到副總簽，工程師也破百。</span><span class="push-ipdatetime"> 06/03 10:13
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jeter8210</span><span class="f3 push-content">: 看bu吧</span><span class="push-ipdatetime"> 06/03 10:20
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kid1412815</span><span class="f3 push-content">: 70-80差不多</span><span class="push-ipdatetime"> 06/03 10:22
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">join183club</span><span class="f3 push-content">: 如果談到底薪是50k以上，基本上輕鬆破百。加班費算下</span><span class="push-ipdatetime"> 06/03 10:26
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">join183club</span><span class="f3 push-content">: 去，每個月就65k，年終17個月再加250k。17是很基本</span><span class="push-ipdatetime"> 06/03 10:26
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">join183club</span><span class="f3 push-content">: 的。</span><span class="push-ipdatetime"> 06/03 10:26
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">donotworryha</span><span class="f3 push-content">: join183大，年終給到五個月 我覺得好扯哦</span><span class="push-ipdatetime"> 06/03 10:30
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">donotworryha</span><span class="f3 push-content">: 因為好像一專是要帶人，二專不用</span><span class="push-ipdatetime"> 06/03 10:31
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">runslow</span><span class="f3 push-content">: 平均都18吧</span><span class="push-ipdatetime"> 06/03 10:31
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">join183club</span><span class="f3 push-content">: 全年17個月，等於獎金5個月，等於250k</span><span class="push-ipdatetime"> 06/03 10:31
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">donotworryha</span><span class="f3 push-content">: 而且二專談不到50k up吧？</span><span class="push-ipdatetime"> 06/03 10:31
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">csmpenny</span><span class="f3 push-content">: 年終5是極少數中的少數  二專還有一個紅包  平均18是跑</span><span class="push-ipdatetime"> 06/03 10:37
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">csmpenny</span><span class="f3 push-content">: 不掉的 還有肉鬆的架構 很多理字輩都未必有人可帶了</span><span class="push-ipdatetime"> 06/03 10:37
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Lions414</span><span class="f3 push-content">: 二專基本上穩穩破啦 剛升沒領紅包不含加班費就破了</span><span class="push-ipdatetime"> 06/03 10:42
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Lions414</span><span class="f3 push-content">: 外面來的二專很有可能不到50K 新人做上去的應該都有</span><span class="push-ipdatetime"> 06/03 10:43
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">donby</span><span class="f3 push-content">: jo大指的應該是年中分紅+年終共5個月吧@@ 這樣的話的確不</span><span class="push-ipdatetime"> 06/03 11:14
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">donby</span><span class="f3 push-content">: 算是很誇張的數字</span><span class="push-ipdatetime"> 06/03 11:14
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">giantwinter</span><span class="f3 push-content">: 二專隨便破百</span><span class="push-ipdatetime"> 06/03 11:27
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">DB2</span><span class="f3 push-content">: 看BU和職缺吧，BU9 RD的話，二專沒破百考績應該不好。</span><span class="push-ipdatetime"> 06/03 11:45
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ffutool</span><span class="f3 push-content">: 那請問一專年薪有120嗎，感謝~</span><span class="push-ipdatetime"> 06/03 11:46
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ffutool</span><span class="f3 push-content">: 普通考績的話，感謝~</span><span class="push-ipdatetime"> 06/03 11:47
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">aweilin</span><span class="f3 push-content">: 一專120不黑的話應該沒問題，月薪65000的話</span><span class="push-ipdatetime"> 06/03 11:53
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">donotworryha</span><span class="f3 push-content">: Bu10 2專有機會嗎？ 各位大大</span><span class="push-ipdatetime"> 06/03 12:11
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">donotworryha</span><span class="f3 push-content">: 加班費不是不能破一萬嗎？</span><span class="push-ipdatetime"> 06/03 12:12
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">WEI0709</span><span class="f3 push-content">: 是不能超過46小時吧</span><span class="push-ipdatetime"> 06/03 12:32
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">icelaw</span><span class="f3 push-content">: 肉鬆做法就是先壓你薪水，滿一年再給高年終阿！ 好棒棒？</span><span class="push-ipdatetime"> 06/03 12:34
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">icelaw</span><span class="f3 push-content">: 月薪五萬*14 vs 月薪四萬* 18 好棒棒？ 噗XD</span><span class="push-ipdatetime"> 06/03 12:36
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">join183club</span><span class="f3 push-content">: 其實是可以超過46的，只是要簽到副總。</span><span class="push-ipdatetime"> 06/03 12:37
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">knvb1001</span><span class="f3 push-content">: 碩士新人第二年就有破百了</span><span class="push-ipdatetime"> 06/03 12:50
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kyory</span><span class="f3 push-content">: 分紅不是要扣掉加班費嗎？</span><span class="push-ipdatetime"> 06/03 12:52
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">arod13arod</span><span class="f3 push-content">: 我學長在肉鬆底薪比N微低一年可領到9X</span><span class="push-ipdatetime"> 06/03 12:55
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">cc618000</span><span class="f3 push-content">: 肉鬆好多個月啊！系統廠一哥</span><span class="push-ipdatetime"> 06/03 13:28
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">eatingshit</span><span class="f3 push-content">: 強者我同事23.5</span><span class="push-ipdatetime"> 06/03 14:03
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Ahfon</span><span class="f3 push-content">: 肉終年鬆</span><span class="push-ipdatetime"> 06/03 16:33
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">xxgod</span><span class="f3 push-content">: 肉粽黏鐘</span><span class="push-ipdatetime"> 06/03 18:04
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Cger</span><span class="f3 push-content">: 肉鬆讚讚讚</span><span class="push-ipdatetime"> 06/03 20:43
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">RS44</span><span class="f3 push-content">: 二專真的比較好</span><span class="push-ipdatetime"> 06/03 22:31
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">childeviler2</span><span class="f3 push-content">: 前幾年都超過20，現在有加班費差這麼多？</span><span class="push-ipdatetime"> 06/03 22:55
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">childeviler2</span><span class="f3 push-content">: 回原po，要看你底薪，二專以上在年終會多一個紅包，</span><span class="push-ipdatetime"> 06/03 23:03
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">childeviler2</span><span class="f3 push-content">: 一專以下有加班費，二專考績跟工程師助工一起打，BU</span><span class="push-ipdatetime"> 06/03 23:03
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">childeviler2</span><span class="f3 push-content">: 也會有關係。</span><span class="push-ipdatetime"> 06/03 23:03
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">leubin</span><span class="f3 push-content">: 聽說肉鬆今年有調薪過?現在bu9的tire 1碩士新人是拿gg的N</span><span class="push-ipdatetime"> 06/04 01:21
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">leubin</span><span class="f3 push-content">: 嗎？</span><span class="push-ipdatetime"> 06/04 01:21
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">eric750618</span><span class="f3 push-content">: 肉鬆肉鬆讚讚讚，輕鬆超過一百萬</span><span class="push-ipdatetime"> 06/04 09:47
+</span></div><span class="f2">※ 編輯: donotworryha (118.165.31.14), 06/08/2017 23:21:30
+</span><span class="f2">※ 編輯: donotworryha (118.165.31.14), 06/08/2017 23:24:27
+</span></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Tech_Job/M.1496455868.A.304.html?cacheKey=2149-85219368&amp;offset=5053&amp;offset-sig=4efbfbd2fa33f5c992f08fa272622d704138691f" data-longpollurl="/v1/longpoll?id=b7ebf8b58e3add248ff081727a92a8b45fe72bbd" data-offset="5053"></div>
+    
+
+    
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.27/bbs.js"></script>
+
+    <script defer src="https://static.cloudflareinsights.com/beacon.min.js/v652eace1692a40cfa3763df669d7439c1639079717194" integrity="sha512-Gi7xpJR8tSkrpF7aordPZQlW2DLtzUlZcumS8dMQjwDHEnw9I7ZLyiOj/6tZStRBGtGgN6ceN6cMH8z7etPGlw==" data-cf-beacon='{"rayId":"73f844a03ae634ab","version":"2022.8.0","r":1,"token":"515615eb5fab4c9b91a11e9bf529e6cf","si":100}' crossorigin="anonymous"></script>
+</body>
+</html>
